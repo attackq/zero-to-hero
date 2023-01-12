@@ -712,12 +712,12 @@ ul {
     }
 
     .interest__item-socials {
-        bottom: 4%;
+        bottom: 0%;
     }
 
     .interest__item-socials a {
-        font-size: 0.5rem;
-        padding: 0.2rem;
+        font-size: 0.9rem;
+        padding: 0.3rem;
     }
 
     .footer__container {
