@@ -386,7 +386,7 @@ ul {
     align-items: center;
 }
 
-.footer__item div {
+.footer__item i {
     font-size: 1.4rem;
     margin-right: 1rem;
     color: var(--color-primary);
@@ -601,7 +601,7 @@ ul {
         margin-top: 1rem;
     }
 
-    .footer__item div {
+    .footer__item i {
         margin-right: 0.5rem;
     }
 
